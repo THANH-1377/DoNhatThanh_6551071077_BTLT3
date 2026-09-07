@@ -1,0 +1,16 @@
+C:\Users\Do Nhat Thanh\BTCh3_Bai5\bin\Debug\net10.0-windows\BTCh3_Bai5.exe
+C:\Users\Do Nhat Thanh\BTCh3_Bai5\bin\Debug\net10.0-windows\BTCh3_Bai5.deps.json
+C:\Users\Do Nhat Thanh\BTCh3_Bai5\bin\Debug\net10.0-windows\BTCh3_Bai5.runtimeconfig.json
+C:\Users\Do Nhat Thanh\BTCh3_Bai5\bin\Debug\net10.0-windows\BTCh3_Bai5.dll
+C:\Users\Do Nhat Thanh\BTCh3_Bai5\bin\Debug\net10.0-windows\BTCh3_Bai5.pdb
+C:\Users\Do Nhat Thanh\BTCh3_Bai5\obj\Debug\net10.0-windows\BTCh3_Bai5.Form1.resources
+C:\Users\Do Nhat Thanh\BTCh3_Bai5\obj\Debug\net10.0-windows\BTCh3_Bai5.csproj.GenerateResource.cache
+C:\Users\Do Nhat Thanh\BTCh3_Bai5\obj\Debug\net10.0-windows\BTCh3_Bai5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Do Nhat Thanh\BTCh3_Bai5\obj\Debug\net10.0-windows\BTCh3_Bai5.AssemblyInfoInputs.cache
+C:\Users\Do Nhat Thanh\BTCh3_Bai5\obj\Debug\net10.0-windows\BTCh3_Bai5.AssemblyInfo.cs
+C:\Users\Do Nhat Thanh\BTCh3_Bai5\obj\Debug\net10.0-windows\BTCh3_Bai5.csproj.CoreCompileInputs.cache
+C:\Users\Do Nhat Thanh\BTCh3_Bai5\obj\Debug\net10.0-windows\BTCh3_Bai5.dll
+C:\Users\Do Nhat Thanh\BTCh3_Bai5\obj\Debug\net10.0-windows\refint\BTCh3_Bai5.dll
+C:\Users\Do Nhat Thanh\BTCh3_Bai5\obj\Debug\net10.0-windows\BTCh3_Bai5.pdb
+C:\Users\Do Nhat Thanh\BTCh3_Bai5\obj\Debug\net10.0-windows\BTCh3_Bai5.genruntimeconfig.cache
+C:\Users\Do Nhat Thanh\BTCh3_Bai5\obj\Debug\net10.0-windows\ref\BTCh3_Bai5.dll
